@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StopWatch2</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="strStart">開始</string>
+    <string name="strPause">暫停</string>
+    <string name="strExit">離開</string>
+    <string name="strCountinue">繼續</string>
+    <string name="strNull" />
+    
+
+</resources>
